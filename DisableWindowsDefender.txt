@@ -1,0 +1,10 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection\DisableRealtimeMonitoring set to 1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\DisableAntiSpyware set to 1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\UX Configuration\UILockdown set to 1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet\DisableBlockAtFirstSeen Set to 1
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet\SubmitSamplesConsent Set to 2
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Features\TamperProtection set to 0
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService\Start set to 4
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WdNisSvc\Start set to 4
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend\Start set to 4
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MpsSvc\Start set to 4
